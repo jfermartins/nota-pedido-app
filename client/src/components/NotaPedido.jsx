@@ -13,7 +13,7 @@ export default function NotaPedido({ cliente, itens }) {
   </div>
   <div className="contato">
     Av. dos Trabalhadores, nº 16.744<br />
-    S. Sebastião – P. Grande – SP<br />
+    Glória – P. Grande – SP<br />
     (13) 3481‑1113
   </div>
   <div className="telefone-marcado">3481‑2074</div>
